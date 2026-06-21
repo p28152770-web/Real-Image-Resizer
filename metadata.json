@@ -1,0 +1,6 @@
+{
+  "name": "Real Image Resizer",
+  "description": "Resize images online for free. Change image dimensions, reduce file size, preserve quality, and download instantly. Supports JPG, PNG, and WebP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
