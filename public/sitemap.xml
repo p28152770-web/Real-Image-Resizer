@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Main Resizer Core Tool -->
   <url>
-    <loc>https://realimageresizer.com/</loc>
+    <loc>https://realimageresizer.pages.dev/</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -10,7 +10,7 @@
   
   <!-- About Us Page -->
   <url>
-    <loc>https://realimageresizer.com/?page=about</loc>
+    <loc>https://realimageresizer.pages.dev/?page=about</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -18,7 +18,7 @@
   
   <!-- Privacy Policy Section -->
   <url>
-    <loc>https://realimageresizer.com/?page=privacy</loc>
+    <loc>https://realimageresizer.pages.dev/?page=privacy</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -26,7 +26,7 @@
   
   <!-- Terms & Conditions Agreement -->
   <url>
-    <loc>https://realimageresizer.com/?page=terms</loc>
+    <loc>https://realimageresizer.pages.dev/?page=terms</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -34,7 +34,7 @@
   
   <!-- Contact Hub -->
   <url>
-    <loc>https://realimageresizer.com/?page=contact</loc>
+    <loc>https://realimageresizer.pages.dev/?page=contact</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
